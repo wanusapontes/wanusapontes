@@ -1,7 +1,7 @@
 ### Hi, I am Wanusa Pontes. 👋
 
 - 🔭 I’m currently working on Data Analysis and Data Science.
-- 🌱 I’m currently learning Oracle 
+- 🌱 I’m currently learning Oracle, Machine Learning and Cloud Computer.
 - 😄 Pronouns: She/Her
 
 
